@@ -4,11 +4,7 @@
 - 🔭 Discente em Ciencia da computação - UFC
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
-<div>
-  <a href="https://github.com/JardelChagas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelChagas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelChagas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   
