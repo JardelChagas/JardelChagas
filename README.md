@@ -1,9 +1,27 @@
-### Olá! Eu sou o Jardel 👋 
+### Olá! Eu sou o Jardel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - 🔭 Discente em Ciencia da computação - UFC
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
+
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=JardelChagas)
+
+<br />
+<br />
 <div>
   <a href="https://github.com/JardelChagas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelChagas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
