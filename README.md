@@ -42,6 +42,6 @@ GraphQL
   -->
 </div>
   <br>
-- <a href="https://github.com/jardeltorrs" target="_blank" style="margin-top:10px;">
+-  <a href="https://github.com/jardeltorrs" target="_blank" style="margin-top:10px;">
   <!--<img height="20" width="20" src="https://user-images.githubusercontent.com/13781439/207473419-4f0aa6d9-5252-4c12-afea-c9e45745d09e.png"/>-->
   GitHub </a>com trabalhos da faculdade
