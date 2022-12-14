@@ -30,5 +30,6 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </div> <br>
-<a href="https://github.com/jardeltorrs" target="_blank" style="margin-top:10px;">
-  📚 </a> <p>github com trabalhos/atividades da faculdade</p>
+<p>
+  <a href="https://github.com/jardeltorrs" target="_blank" style="margin-top:10px;">  📚 </a> github com trabalhos/atividades da faculdade
+</p>
