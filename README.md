@@ -5,8 +5,8 @@
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
 - <a href="https://github.com/JardelChagas">
-  <img height="180em" src="![image](https://user-images.githubusercontent.com/13781439/207472552-b617fb06-9746-4ffa-91f7-857de902685f.png)
-"/>
+  <img height="180em" src="https://user-images.githubusercontent.com/13781439/207472552-b617fb06-9746-4ffa-91f7-857de902685f.png"/>
+  </a>
 <!--<a target="_blank" href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>-->
