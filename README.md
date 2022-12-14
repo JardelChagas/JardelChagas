@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jardel <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:5px">-->
 
 
-- 🔭 Ciencia da computação - UFC                  -hgh
+- 🔭 Ciencia da computação - UFC 
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
 
@@ -43,4 +43,4 @@ GraphQL
 </div>
 <br> <a href="https://github.com/jardeltorrs" target="_blank" style="margin-top:10px;">
   <!--<img height="20" width="20" src="https://user-images.githubusercontent.com/13781439/207473419-4f0aa6d9-5252-4c12-afea-c9e45745d09e.png"/>-->
-  📚 </a>github com trabalhos da faculdade
+  - 📚 </a>github com trabalhos da faculdade
