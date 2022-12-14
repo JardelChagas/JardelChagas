@@ -5,9 +5,6 @@
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
 
-<a target="_blank" href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a target="_blank" href="https://www.linkedin.com/in/jardelchags/">
   <img align="left" alt="Linkedin Jardel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
