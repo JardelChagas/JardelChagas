@@ -4,7 +4,7 @@
 - 🔭 Ciencia da computação - UFC
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
-- 🐛 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+- 🐛 <img align="center" alt="" height="30" width="40" src="https://icons8.com/icon/AZOZNnY73haj/github">
 <!--<a target="_blank" href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>-->
