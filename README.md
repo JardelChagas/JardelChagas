@@ -4,7 +4,7 @@
 - 🔭 Ciencia da computação - UFC
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
-
+- 🐛 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <!--<a target="_blank" href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>-->
@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/JardelChagas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelChagas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelChagas&layout=compact&langs_count=7&theme=gotham"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelChagas&layout=compact&langs_count=7&theme=gotham"/>-->
 </div>
 
 <div style="display: inline_block"><br>
