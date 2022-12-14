@@ -5,7 +5,7 @@
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
 - <a href="https://github.com/jardeltorrs" target="_blank">
-  <img height="20" width="20" src="https://icons8.com/icon/0tREDFkScvsm/github"/>
+  <img height="20" width="20" src="https://user-images.githubusercontent.com/13781439/207473419-4f0aa6d9-5252-4c12-afea-c9e45745d09e.png"/>
   </a> GitHub com trabalhos da faculdade
 <!--<a target="_blank" href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
