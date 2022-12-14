@@ -29,9 +29,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" src="https://giphy.com/gifs/OctoNation-work-construction-fVeAI9dyD5ssIFyOyM">
-  
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/fVeAI9dyD5ssIFyOyM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/OctoNation-work-construction-fVeAI9dyD5ssIFyOyM">via GIPHY</a></p>
+  <img align="right" src="https://media0.giphy.com/media/fVeAI9dyD5ssIFyOyM/giphy.gif?cid=790b76111d27b8e8bf2fb496a9afd60a9cf5b00838a2677d&rid=giphy.gif">
   
 </div>
   <iframe src="https://giphy.com/embed/fVeAI9dyD5ssIFyOyM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OctoNation-work-construction-fVeAI9dyD5ssIFyOyM">via GIPHY</a></p>
