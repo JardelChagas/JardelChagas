@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Jardel%20Chagas🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-### Olá! Eu sou o Jardel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:10px">
+<!--### Olá! Eu sou o Jardel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:10px">-->
 
 
 - 🔭 Ciencia da computação - UFC 
