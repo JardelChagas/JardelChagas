@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Jardel%20Chagas🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<!--### Olá! Eu sou o Jardel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:10px">-->
-
-
 - 🔭 Ciencia da computação - UFC 
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
@@ -28,10 +25,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <!--<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">-->
-  <!--<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">-->
-  </div> <br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></div> <br>
 <p>
   <a href="https://github.com/jardeltorrs" target="_blank" style="margin-top:10px;">  📚 </a> github com trabalhos/atividades da faculdade
 </p>
