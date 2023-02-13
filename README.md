@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Jardel%20Chagas🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-- 🔭 Ciencia da computação - UFC 
+- 🔭 Ciencia da Computação - UFC 
 - 🌱 estudando Spring Boot
 - 😄 Pronomes: ele/dele
 
