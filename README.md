@@ -3,9 +3,9 @@
 - 🔭 Ciencia da Computação - UFC
 - 😄 Pronomes: ele/dele
 
-<a target="_blank" href="https://www.linkedin.com/in/jardelchags/">
+<!--<a target="_blank" href="https://www.linkedin.com/in/jardelchags/">
   <img align="left" alt="Linkedin Jardel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a>-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JardelChagas)
 
